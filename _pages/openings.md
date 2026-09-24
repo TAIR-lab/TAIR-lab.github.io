@@ -31,5 +31,5 @@ Due to the volume of emails, we will be unable to respond to every enquiry. If y
 2. A funded PhD position on [Diffusion/LLM Powered Generative AI with Healthcare Applications](https://www.kcl.ac.uk/dentistry/research/phd-opportunities-folder/cocts-diffusionllm-powered-generative-ai-with-healthcare-applications)
    - **Supervisors:** Dr Yunpeng Li and Dr Ayan Das.
    - **Funding:** Funded by Horizon Europe (home-rate fees plus a stipend at the UKRI rate; overseas applicants cover the fee difference).
-   - **Start date:** 1st October 2026 or 1st February 2027.
-   - **Application deadline:** 15th August 2026. Applications are assessed on a rolling basis, so early application is encouraged.
+   - **Start date:** 1st February 2027.
+   - **Application deadline:** 31st October 2026. Applications are assessed on a rolling basis, so early application is encouraged.
