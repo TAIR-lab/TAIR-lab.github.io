@@ -554,7 +554,7 @@ ninja.data = [{
           section: "News",},{id: "news-yunpeng-li-gave-an-invited-talk-on-our-work-on-ai-powered-acoustic-sensing-for-large-scale-monitoring-of-insects-at-the-2nd-asia-pacific-conference-on-mosquito-and-vector-control-amv-2026-in-pattaya-thailand",
           title: 'Yunpeng Li gave an invited talk on our work on “AI-powered acoustic sensing...',
           description: "",
-          section: "News",},{id: "news-we-are-offering-a-fully-funded-3-year-phd-studentship-for-both-uk-and-international-students-on-trustworthy-generative-ai-in-healthcare-for-a-february-june-or-october-2027-start-application-is-rolling-based-early-applications-are-encouraged",
+          section: "News",},{id: "news-we-are-offering-a-fully-funded-3-year-phd-studentship-for-both-uk-and-international-students-on-trustworthy-generative-ai-in-healthcare-for-a-february-june-or-october-2027-start-the-application-deadline-is-30-september-2026",
           title: 'We are offering a fully funded 3-year PhD studentship for both UK and...',
           description: "",
           section: "News",},{id: "news-yunpeng-li-gave-an-invited-talk-in-the-dental-materials-research-group-symposium-integrating-artificial-intelligence-into-dental-materials-for-more-reliable-clinical-outcomes-at-the-72nd-annual-meeting-of-the-british-society-for-oral-and-dental-research-bsodr-2026-in-manchester",
