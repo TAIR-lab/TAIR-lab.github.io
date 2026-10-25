@@ -396,8 +396,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "members-dr-ayan-das",
-          title: 'Dr. Ayan Das',
+    },{id: "members-ayan-das",
+          title: 'Ayan Das',
           description: "AI+ Academic Senior Fellow",
           section: "Members",handler: () => {
               window.location.href = "/members/ayandas/";
@@ -416,13 +416,18 @@ ninja.data = [{
           description: "Research Associate (2026-).",
           section: "Members",handler: () => {
               window.location.href = "/members/weidongliang/";
-            },},{id: "members-dr-xiongjie-chen",
-          title: 'Dr. Xiongjie Chen',
+            },},{id: "members-xiongjie-chen",
+          title: 'Xiongjie Chen',
           description: "Research Fellow in Machine Learning in Medical Imaging (2023-2025). PhD (2019-2023).",
           section: "Members",handler: () => {
               window.location.href = "/members/xiongjiechen/";
-            },},{id: "members-dr-yunpeng-li",
-          title: 'Dr. Yunpeng Li',
+            },},{id: "members-yongxin-yang",
+          title: 'Yongxin Yang',
+          description: "Doubleday AI Academic Fellow in Translational Health Research",
+          section: "Members",handler: () => {
+              window.location.href = "/members/yongxinyang/";
+            },},{id: "members-yunpeng-li",
+          title: 'Yunpeng Li',
           description: "Reader in AI &amp; Digital Oral Health",
           section: "Members",handler: () => {
               window.location.href = "/members/yunpengli/";
@@ -565,6 +570,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-yunpeng-li-and-ayan-das-attended-the-kick-off-meeting-of-the-horizon-europe-project-biofactory-in-bergen-norway-hosted-by-the-coordinator-the-university-of-bergen-king-s-leads-the-project-s-ai-module",
           title: 'Yunpeng Li and Ayan Das attended the kick-off meeting of the Horizon Europe...',
+          description: "",
+          section: "News",},{id: "news-welcome-yongxin-yang-to-the-faculty-of-dentistry-oral-amp-amp-craniofacial-sciences-at-king-s-college-london-yongxin-joins-as-a-doubleday-ai-academic-fellow-in-translational-health-research",
+          title: 'Welcome Yongxin Yang to the Faculty of Dentistry, Oral &amp;amp;amp; Craniofacial Sciences at...',
           description: "",
           section: "News",},{id: "projects-bayesian-detector-combination",
           title: 'Bayesian Detector Combination',
