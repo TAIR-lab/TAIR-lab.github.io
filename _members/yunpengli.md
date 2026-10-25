@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Yunpeng Li
+title: Yunpeng Li
 description: Reader in AI & Digital Oral Health
 img: assets/img/Yunpeng.jpeg
 importance: 1
