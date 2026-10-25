@@ -4,7 +4,7 @@ title: Weidong Liang
 description: Research Associate (2026-).
 img: assets/img/Weidong_Liang.jpg
 importance: 1
-redirect: https://www.linkedin.com/in/weidong-liang-0715111a3/
-category: Research Staff
+redirect: https://kclpure.kcl.ac.uk/portal/en/persons/james-liang/
+category: Associate
 related_publications: false
 ---
